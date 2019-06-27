@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.035,=G:\정리용 폴더\구 소스\Delphi\RoKo\Connector.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.055,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\fruga\Documents\Embarcadero\Studio\Projects\n0b45305u.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.317,=G:\정리용 폴더\구 소스\Delphi\RoKo\DSiWin32.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.612,=C:\Users\fruga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.652,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\fruga\Documents\Embarcadero\Studio\Projects\pasMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.513,G:\정리용 폴더\구 소스\Delphi\RoKo\RoKo_Lib.pas=G:\정리용 폴더\구 소스\Delphi\RoKo\n0b453l1b.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.205,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\n0b45305u.dproj=F:\정리용 폴더\소스\Delphi\n0b45305u\n0b45305u.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.013,=F:\정리용 폴더\소스\Delphi\n0b45305u\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.652,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\fruga\Documents\Embarcadero\Studio\Projects\pasMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.180,G:\정리용 폴더\구 소스\Delphi\RoKo\RoKo.dproj=G:\정리용 폴더\구 소스\Delphi\RoKo\n0b45305u.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.964,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\pasMain.dfm=F:\정리용 폴더\소스\Delphi\n0b45305u\pasMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.964,C:\Users\fruga\Documents\Embarcadero\Studio\Projects\pasMain.pas=F:\정리용 폴더\소스\Delphi\n0b45305u\pasMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.390,F:\정리용 폴더\소스\Delphi\n0b45305u\Unit1.pas=F:\정리용 폴더\소스\Delphi\n0b45305u\n0b453l1b.pas</Transaction>
+  </Transactions>
+</BorlandProject>
