@@ -2,18 +2,15 @@ program RoKo;
 
 uses
   Vcl.Forms,
+  DSiWin32 in 'DSiWin32.pas',
   pasMain in 'pasMain.pas' {frmMain},
-  Vcl.Themes,
-  Vcl.Styles,
-  RoKo_Lib in 'RoKo_Lib.pas',
-  DSiWin32 in 'DSiWin32.pas';
+  RoKo_Lib in 'RoKo_Lib.pas';
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  TStyleManager.TrySetStyle('Iceberg Classico');
   Application.CreateForm(TfrmMain, frmMain);
   Application.Run;
 end.

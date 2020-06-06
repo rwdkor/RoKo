@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls, Vcl.ExtCtrls, PSApi,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls, Vcl.ExtCtrls, Winapi.PSApi,
   TLHelp32, SHFolder, IdGlobal, IdHash, IdHashMessageDigest, DSiWin32;
 
 function DSiGetProcessID(const processName: string): Cardinal;
@@ -304,7 +304,7 @@ begin
   begin
     try
       Arrays.Start:= StrToInt('$00000000');
-      Arrays.Finish:= StrToInt('$0FFFFFFF');
+      Arrays.Finish:= StrToInt('$7FFFFFFF');
       Arrays.Array_of_bytes:= 'EB 0A A1 ?? ?? ?? ?? A3';
       Addr := ArrayScan(Arrays);
       //ShowMessage(Addr.Strings[0]);
